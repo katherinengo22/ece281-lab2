@@ -1,14 +1,14 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA
+-- Engineer: C3C Katherine Ngo
 -- 
 -- Create Date: 02/23/2026 06:37:45 PM
--- Design Name: 
+-- Design Name: Seven Segment Decoder 
 -- Module Name: sevenseg_decoder - Behavioral
--- Project Name: 
+-- Project Name: Seven Segment Decoder 
 -- Target Devices: 
 -- Tool Versions: 
--- Description: 
+-- Description: seven segment decoder 
 -- 
 -- Dependencies: 
 -- 
@@ -51,7 +51,7 @@ begin
             "0000010" when "0110", --6
             "1111000" when "0111", --7
             "0000000" when "1000", --8
-            "0010000" when "1001", --9
+            "0011000" when "1001", --9
             "0001000" when "1010", --A
             "0000011" when "1011", --b
             "0100111" when "1100", --c

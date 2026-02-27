@@ -1,14 +1,14 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: USAFA
+-- Engineer: C3C Katherine ngo
 -- 
 -- Create Date: 02/24/2026 02:40:37 PM
--- Design Name: 
+-- Design Name: Seven Segment Decoder 
 -- Module Name: sevenseg_decoder_tb - Behavioral
--- Project Name: 
+-- Project Name: Seven Segment Decoder 
 -- Target Devices: 
 -- Tool Versions: 
--- Description: 
+-- Description: seven segment decoder test bench 
 -- 
 -- Dependencies: 
 -- 
